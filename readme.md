@@ -1,6 +1,6 @@
 # Encriptare / Decriptare
 
-Fisierul folosit pentru encriptare/decriptare este *proiect.py*
+Fisierul folosit pentru encriptare/decriptare este `proiect.py`
 
 ### Modul de utilizare este urmatorul: 
 
@@ -15,7 +15,7 @@ python proiect.py <modul de criptare: encrypt/decrypt> <cheie secreta> <fisier t
   
 # Spargerea parolei
   
-Spargerea parolei se realizeaza cu ajutorul fisierului *spargere.py*, care primeste ca parametrii fisierul input neecriptat si fisierul output encriptat, si realizeaza operatia XOR intre caracterele acestora, caracter cu caracter. Astfel, va fi afisata parola, aceasta repetandu-se de mai multe ori. In fisierul incarcat, se realizeaza XOR pentru primele 14 caractere deoarece am descoperit in prealabil, ruland cu o lungime mai mare, de exemplu 30, ca lungimea parolei echipei adverse este de 14 caractere, si astfel la rulare se afiseaza doar cheia de encriptare folosita.
+Spargerea parolei se realizeaza cu ajutorul fisierului `spargere.py`, care primeste ca parametrii fisierul input neecriptat si fisierul output encriptat, si realizeaza operatia XOR intre caracterele acestora, caracter cu caracter. Astfel, va fi afisata parola, aceasta repetandu-se de mai multe ori. In fisierul incarcat, se realizeaza XOR pentru primele 14 caractere deoarece am descoperit in prealabil, ruland cu o lungime mai mare, de exemplu 30, ca lungimea parolei echipei adverse este de 14 caractere, si astfel la rulare se afiseaza doar cheia de encriptare folosita.
 
 #### Numele echipei noastre: *Edge*
 #### Numele echipei adverse: *Echipa Parnaie*
